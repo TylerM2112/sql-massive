@@ -2,7 +2,7 @@
   "name": "sql-massive",
   "version": "1.0.0",
   "description": "Demo project",
-  "main": "index.js",
+  "main": "server/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
