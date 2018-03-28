@@ -1,0 +1,1 @@
+SELECT * FROM heroes WHERE powers LIKE concat('%', ${powers}, '%') AND real_age <= ${real_age};
